@@ -1,4 +1,4 @@
-# awesome-ml-papers-reading
+# latest-ml-highlighted-papers-and-notes
 Repository for Machine Learning papers: Highlighted Paper pdf for easy reading along with one pager summary notes for each paper.
 
 
@@ -6,7 +6,7 @@ Repository for Machine Learning papers: Highlighted Paper pdf for easy reading a
 ![NoisyStudentAnnotatedPaper](https://drive.google.com/uc?export=view&id=1U8esodyuFithSdUQUJklp0xdZVB1pPyN)
 
 
-### Sample Notes of [NoisyStudent](https://arxiv.org/pdf/1911.04252v4) Paper:
+### Sample one-pager Notes of [NoisyStudent](https://arxiv.org/pdf/1911.04252v4) Paper:
 ![NoisyStudentPaperNotes](https://drive.google.com/uc?export=view&id=1mPo9lqOaboupFaSm1UhGrnzvZF9Rt0AK)
 
 
