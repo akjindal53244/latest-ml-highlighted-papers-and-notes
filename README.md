@@ -16,3 +16,7 @@ Repository for Machine Learning papers: Highlighted Paper pdf for easy reading a
 
 1. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 2. [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252v4)
+
+
+### Chemistry:
+1. [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/pdf/2010.09885)
